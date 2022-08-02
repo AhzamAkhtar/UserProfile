@@ -23,6 +23,6 @@ class MainActivity : AppCompatActivity() {
         mAdapter = UserAdapter(mainItems,this)
         listView.adapter = mAdapter
 
-
+        // Finish
     }
 }
